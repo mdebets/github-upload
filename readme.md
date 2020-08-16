@@ -1,3 +1,3 @@
-# Tis is the project's REDME file
+# This is the project's REDME file
 
 ### replace me with important information
